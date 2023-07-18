@@ -1,9 +1,7 @@
 # Hotel Reservation System
  Hotel Reservation System for Special Events
 
-
- ![Screenshot (1401)](https://github.com/IT21278280/Hotel-Reservation-System/assets/99583379/813a3a93-f15e-43fe-9cf0-fb43622d86cb)
-![Screenshot (1402)](https://github.com/IT21278280/Hotel-Reservation-System/assets/99583379/189760b1-dfe7-4c01-b27b-f8fdb1666648)
-![Screenshot (1403)](https://github.com/IT21278280/Hotel-Reservation-System/assets/99583379/d35bec35-496a-4774-9b0b-ab2db8f11b30)
-![Screenshot (1404)](https://github.com/IT21278280/Hotel-Reservation-System/assets/99583379/052bf77f-9917-4dfb-a073-44c7ee973004)
-
+![Screenshot (1401)](https://github.com/IT21278280/Hotel-Reservation-System-IWT-Project/assets/99583379/575c2588-5d08-4e3b-99a0-1d37b6a98cf2)
+![Screenshot (1402)](https://github.com/IT21278280/Hotel-Reservation-System-IWT-Project/assets/99583379/e4ea8a56-deb0-48e6-8a9d-4975acbbc726)
+![Screenshot (1403)](https://github.com/IT21278280/Hotel-Reservation-System-IWT-Project/assets/99583379/97bd768b-1a4c-4e6c-9b2c-a842d070dbb3)
+![Screenshot (1404)](https://github.com/IT21278280/Hotel-Reservation-System-IWT-Project/assets/99583379/b781ad97-3e68-416a-873b-47b90efabfeb)
